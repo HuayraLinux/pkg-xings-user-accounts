@@ -1,0 +1,3 @@
+version=3
+
+https://github.com/matiasdelellis/xings-user-accounts/releases .*/xings-user-accounts-?(\d\S*)\.tar\.bz2

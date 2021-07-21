@@ -1,0 +1,11 @@
+xings-user-accounts (0.1.0-2) torbellino; urgency=medium
+
+  * Ajuste de dependencias.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 14 Jul 2021 14:30:47 -0300
+
+xings-user-accounts (0.1.0-1) torbellino; urgency=medium
+
+  * Primera version de prueba.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 14 Jul 2021 11:41:13 -0300

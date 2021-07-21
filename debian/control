@@ -1,0 +1,17 @@
+Source: xings-user-accounts
+Section: x11
+Priority: optional
+Maintainer: Matias De lellis <mati86dl@gmail.com>
+Build-Depends: debhelper (>= 9), intltool (>= 0.50), libgtk-3-dev, libpolkit-gobject-1-dev, 
+ libpwquality-dev, libaccountsservice-dev, libkrb5-dev, libcheese-dev
+Standards-Version: 3.9.2
+Vcs-Git: https://github.com/HuayraLinux/pkg-xings-user-accounts
+Vcs-Browser: https://github.com/HuayraLinux/pkg-xings-user-accounts
+Homepage: https://github.com/matiasdelellis/xings-user-accounts
+
+Package: xings-user-accounts
+Architecture: i386 amd64
+Replaces: gnome-system-tools
+Conflicts: gnome-system-tools
+Depends: ${shlibs:Depends}, ${misc:Depends}, racklib-runtime
+Description: A dialog to add or remove users and change password independent of any desktop.
