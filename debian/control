@@ -13,5 +13,5 @@ Package: xings-user-accounts
 Architecture: i386 amd64
 Replaces: gnome-system-tools
 Conflicts: gnome-system-tools
-Depends: ${shlibs:Depends}, ${misc:Depends}, racklib-runtime
+Depends: ${shlibs:Depends}, ${misc:Depends}, cracklib-runtime
 Description: A dialog to add or remove users and change password independent of any desktop.

@@ -1,3 +1,9 @@
+xings-user-accounts (0.2.0-1) torbellino; urgency=medium
+
+  * Primera version publica sugerida para usuarios.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Wed, 21 Jul 2021 13:48:24 -0300
+
 xings-user-accounts (0.1.0-2) torbellino; urgency=medium
 
   * Ajuste de dependencias.
