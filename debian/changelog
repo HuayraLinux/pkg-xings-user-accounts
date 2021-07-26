@@ -1,3 +1,15 @@
+xings-user-accounts (0.2.2-1) unstable; urgency=medium
+
+  * Arregla compilacion warning, y perdida de memoria.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Mon, 26 Jul 2021 12:55:37 -0300
+
+xings-user-accounts (0.2.1-1) torbellino; urgency=medium
+
+  * Varias mejoras para los usuarios y administradores de sistemas.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Mon, 26 Jul 2021 12:09:36 -0300
+
 xings-user-accounts (0.2.0-1) torbellino; urgency=medium
 
   * Primera version publica sugerida para usuarios.
